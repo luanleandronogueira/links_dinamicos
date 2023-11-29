@@ -1,0 +1,16 @@
+# Arquivo .gitignore
+
+# Ignorar diretórios relacionados ao Windows
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
