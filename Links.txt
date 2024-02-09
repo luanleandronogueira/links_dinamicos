@@ -1,0 +1,51 @@
+https://it-solucoes.com/transparenciaMunicipal/retornadadosVisualizacao.aspx?sessao=AUP&id=33&e=C
+Audiência Pública
+
+https://it-solucoes.com/transparenciaMunicipal/frmvisualizadadoslegislativo.aspx?ato=65&id=33&e=c
+Ata da Votação Nominal
+
+https://it-solucoes.com/transparenciaMunicipal/frmvisualizadadoslegislativo.aspx?ato=67&id=33&e=c
+Cotas para Exercício da Atividade Parlamentar/Verba Indenizatória
+
+https://it-solucoes.com/transparenciaMunicipal/retornaDadosVisualizacao.aspx?sessao=DECRETO&id=33&e=C
+Decretos
+
+estrutura.php
+Estrutura Organizacional
+
+https://it-solucoes.com/transparenciaMunicipal/frmvisualizadadoslegislativo.aspx?ato=68&id=33&e=c
+Julgamento das Contas do Chefes do Poder
+
+https://it-solucoes.com/transparenciaMunicipal/retornaDadosVisualizacao.aspx?id=33&sessao=lei&e=C
+Leis Municipais
+
+https://it-solucoes.com/transparenciaMunicipal/frmvisualizadadoslegislativo.aspx?ato=69&id=33&e=c
+Legislacao Relacionada a Gastos dos Parlamentares
+
+https://it-solucoes.com/transparenciaMunicipal/frmvisualizadadoslegislativo.aspx?ato=72&id=33&e=c
+Lista de Presença/Ausência nas Sessões
+
+https://it-solucoes.com/transparenciaMunicipal/frmvisualizadadoslegislativo.aspx?ato=70&id=33&e=c
+Pauta das Comissões
+
+https://it-solucoes.com/transparenciaMunicipal/frmvisualizadadoslegislativo.aspx?ato=71&id=33&e=c
+Pauta das Sessões do Plenário
+
+https://it-solucoes.com/transparenciaMunicipal/retornaDadosVisualizacao.aspx?id=33&sessao=portaria&e=C
+Portarias
+
+https://it-solucoes.com/transparenciaMunicipal/frmvisualizadadoslegislativo.aspx?ato=75&id=33&e=c
+Projetos de Lei
+
+https://it-solucoes.com/transparenciaMunicipal/frmvisualizadadoslegislativo.aspx?ato=73&id=33&e=c
+Relatório de Atividade dos Parlamentares
+
+https://it-solucoes.com/transparenciaMunicipal/retornaDadosVisualizacao.aspx?sessao=rc1&id=33&e=C
+Relatório Circunstanciado
+
+requerimentos.php
+Requerimentos
+
+https://it-solucoes.com/transparenciaMunicipal/frmvisualizadadoslegislativo.aspx?ato=103&id=33&e=c
+Resoluções
+
